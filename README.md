@@ -1,4 +1,4 @@
-Emotion-Recognition-with-vgg16
+Emotion-Recognition-With-VGG-16
 
 
 VGG-16 is a convolutional neural network that is 16 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database.

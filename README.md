@@ -21,7 +21,7 @@ https://www.kaggle.com/msambare/fer2013
 
 
 
-If you want to help plz contact me
+If you want help plz contact me
 
 Yasserhesseinshakir@yahoo.com
 
